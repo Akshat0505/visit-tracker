@@ -1,0 +1,22 @@
+Website Visit Tracker 
+
+This is a simple frontend-only project that:
+- Tracks how many times the site has been visited
+- Stores and shows the timestamp of each visit
+- Updates UI dynamically using JavaScript and localStorage
+
+Tech Used:
+- HTML
+- CSS
+- JavaScript (Vanilla)
+- `localStorage` for storing timestamps
+
+ Features:
+- Visit count tracker
+- Timestamp list of each page visit
+- No backend – pure frontend implementation
+
+ How to Run:
+Just open `index.html` in your browser. Every reload will log a new timestamp and update the visit count.
+
+
